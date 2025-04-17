@@ -1,4 +1,4 @@
-# Breadth-first search (BFS) with graph
+# Breadth-first search (BFS) with a graph
 
 graf = [[0, 1, 1, 0, 0, 0, 0, 0, 1],
         [0, 0, 0, 0, 1, 1, 0, 1],
